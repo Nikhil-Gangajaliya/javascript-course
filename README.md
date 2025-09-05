@@ -33,3 +33,11 @@ Each day has code files covering **theory + examples + practice programs**.
 - Explored Math object: random, floor, ceil, round, max, min  
 - Created programs to practice strings and numbers
 
+✅ **Day 4 – Dates & Memory**
+- Learned Date object: current date, custom date, formatting  
+- Extracted year, month, day, hours, minutes, seconds  
+- Practiced Date.now() for timestamps and performance  
+- Understood Stack vs Heap memory  
+- Stack = Primitive types (copy by value)  
+- Heap = Reference types (copy by reference)  
+
