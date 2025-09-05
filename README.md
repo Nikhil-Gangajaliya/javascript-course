@@ -25,3 +25,11 @@ Each day has code files covering **theory + examples + practice programs**.
 1. Clone repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/javascript-course.git
+
+✅ **Day 3 – Strings & Numbers**
+- Learned string methods: length, toUpperCase, toLowerCase, trim, slice, replace, includes, split  
+- Practiced template literals with backticks  
+- Learned number methods: toFixed, toString  
+- Explored Math object: random, floor, ceil, round, max, min  
+- Created programs to practice strings and numbers
+
