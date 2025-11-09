@@ -6,6 +6,10 @@ let accountState;
 
 // accountId = 2222; // const can't change.
 
+/*
+don't use var because it issues in block scope and function scope/
+*/
+
 accountEmail = "ng@gmail.com";
 accountPw = "111";
 accountCity = "Rajkot";
